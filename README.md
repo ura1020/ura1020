@@ -6,8 +6,9 @@ Made by.
 - https://cards.urapapa.com/
 
 まいレポ
-- https://reviews.urapapa.com/
-- https://review.urapapa.com/
+- https://reviews.urapapa.com/  # Rust版/パスキー対応版
+- https://review.urapapa.com/  # Python版/SNS連携版
 
 楽天価格履歴
-- https://rakuten.urapapa.com/
+- https://rakuten2.urapapa.com/  # Flutter版
+- https://rakuten.urapapa.com/  # Expo版
