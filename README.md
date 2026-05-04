@@ -12,3 +12,9 @@ Made by.
 楽天価格履歴
 - https://rakuten2.urapapa.com/  # Flutter版
 - https://rakuten.urapapa.com/  # Expo版
+
+Svelteテスト
+- https://type-profile2.pages.dev/
+
+Flutter / Flameテスト
+- https://ena.urapapa.com/
