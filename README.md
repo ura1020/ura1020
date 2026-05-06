@@ -13,6 +13,9 @@ Made by.
 - https://rakuten2.urapapa.com/  # Flutter版
 - https://rakuten.urapapa.com/  # Expo版
 
+セカイメガネ(開発中)
+- https://sekai-megane-preview.ura1020.workers.dev/
+
 Svelteテスト
 - https://type-profile2.pages.dev/
 
