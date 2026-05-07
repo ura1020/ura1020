@@ -14,6 +14,7 @@ Made by.
 - https://rakuten.urapapa.com/  # Expo版
 
 セカイメガネ(開発中)
+- https://sekai-megane-production.ura1020.workers.dev/
 - https://sekai-megane-preview.ura1020.workers.dev/
 
 Svelteテスト
