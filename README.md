@@ -13,9 +13,9 @@ Made by.
 - https://rakuten2.urapapa.com/  # Flutter版
 - https://rakuten.urapapa.com/  # Expo版
 
-セカイメガネ(開発中)
-- https://sekai-megane-production.ura1020.workers.dev/
-- https://sekai-megane-preview.ura1020.workers.dev/
+セカイメガネ
+- https://sekai-megane-production.ura1020.workers.dev/  # 本番環境
+- https://sekai-megane-preview.ura1020.workers.dev/  # 開発環境
 
 Svelteテスト
 - https://type-profile2.pages.dev/
