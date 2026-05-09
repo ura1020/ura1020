@@ -19,6 +19,8 @@ Made by.
 
 Svelteテスト
 - https://type-profile2.pages.dev/
+- https://type-profile2.pages.dev/lifetown
+- https://type-profile2.pages.dev/typeprofile
 
 Flutter / Flameテスト
 - https://ena.urapapa.com/
