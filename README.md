@@ -2,7 +2,10 @@ I like ramen and games.
 
 Made by.
 
-オンライン名刺サービス
+スキット作成サービス MakuAi(マクアイ)
+- https://makuai.urapapa.com/
+
+オンライン名刺サービス うら名刺屋
 - https://cards.urapapa.com/
 
 まいレポ
