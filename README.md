@@ -5,7 +5,7 @@ Made by.
 スキット作成サービス MakuAi(マクアイ)
 - https://makuai.urapapa.com/
 
-オンライン名刺サービス うら名刺屋
+今推しを共有 Oshi-Ca(オシカ)
 - https://cards.urapapa.com/
 
 まいレポ
