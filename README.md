@@ -20,10 +20,14 @@ Made by.
 - https://sekai-megane-production.ura1020.workers.dev/  # 本番環境
 - https://sekai-megane-preview.ura1020.workers.dev/  # 開発環境
 
+(開発中)カードを置けば、そこはもうあなたの街。日本全国、開発中！ | Machi Play(マチプレ)
+- https://type-profile2.pages.dev/lifetown
+
+(開発中)「私はもう、殺されている。ーーさあ、犯人を探そうか。」 | Dead-Letter(デッドレター)
+- https://type-profile2.pages.dev/typeprofile
+
 Svelteテスト
 - https://type-profile2.pages.dev/
-- https://type-profile2.pages.dev/lifetown
-- https://type-profile2.pages.dev/typeprofile
 
 Flutter / Flameテスト
 - https://ena.urapapa.com/
