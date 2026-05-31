@@ -7,10 +7,12 @@ Made by.
 [今推しを共有 Oshi-Ca(オシカ)](https://cards.urapapa.com/)
 
 [まいレポ Rust版/パスキー対応版](https://reviews.urapapa.com/)
+
 [旧まいレポ Python版/SNS連携版](https://review.urapapa.com/)
 
 [楽天価格履歴 Flutter版](https://rakuten2.urapapa.com/)
-[楽天価格履歴 Expo版](https://rakuten.urapapa.com/)
+
+[旧楽天価格履歴 Expo版](https://rakuten.urapapa.com/)
 
 [セカイメガネ](https://sekai-megane-production.ura1020.workers.dev/)
 
